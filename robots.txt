@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://motptom.github.io/sitemap/sitemap.txt
